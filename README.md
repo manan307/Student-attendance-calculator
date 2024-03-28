@@ -24,4 +24,4 @@ Authenticates the user through the login function.
 Loads existing student data from the file.
 Enters a loop to continuously prompt the user for choices until they choose to exit.
 Provides a menu with options to perform various operations such as inserting student details, displaying students, searching by roll number or name, calculating attendance, deleting, modifying, saving data, or exiting the program.
-Overall, this program serves as a basic student attendance management system, allowing administrators to manage student records efficiently. It incorporates file handling for data persistence and basic user authentication for security. However, there are areas for improvement such as input validation and error handling to enhance robustness and reliability.
+Overall, this program serves as a basic student attendance management system, allowing administrators to manage student records efficiently. It incorporates file handling for data persistence and basic user authentication for security. However, there are areas for improvement such as input validation and error handling to enhance robustnes and reliability.
